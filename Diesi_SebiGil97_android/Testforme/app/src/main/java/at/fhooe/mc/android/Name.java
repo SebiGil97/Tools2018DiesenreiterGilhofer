@@ -14,7 +14,9 @@ public class Name implements Serializable {
     }
 
 
-    public void thisIsANewMethode(){}
+    public void thisIsANewMethode(){
+        int anotherUseless = 6 * 10 + 9;
+    }
 
     // new -------------------
     int useless = 0;
