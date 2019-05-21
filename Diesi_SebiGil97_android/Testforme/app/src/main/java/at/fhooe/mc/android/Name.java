@@ -14,7 +14,12 @@ public class Name implements Serializable {
     }
 
 
-    public void thisIsANewMethode(){}
+    public void thisIsANewMethode(){
+        
+            int g=5;
+
+    }
+
 
     // new -------------------
     int useless = 0;
