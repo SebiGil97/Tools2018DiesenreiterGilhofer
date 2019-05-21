@@ -15,7 +15,7 @@ public class Name implements Serializable {
 
 
     public void thisIsANewMethode(){
-        
+
             int g=5;
 
     }
