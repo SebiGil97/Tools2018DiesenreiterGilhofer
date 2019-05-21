@@ -13,5 +13,15 @@ public class Name implements Serializable {
         return name;
     }
 
+
     public void thisIsANewMethode(){}
+
+    // new -------------------
+    int useless = 0;
+
+    int result = useless + 1 - 1;
+    // new -------------------
+
+
+
 }
