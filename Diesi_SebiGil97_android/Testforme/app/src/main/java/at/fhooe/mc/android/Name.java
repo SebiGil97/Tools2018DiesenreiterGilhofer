@@ -12,4 +12,12 @@ public class Name implements Serializable {
     public String getUnamie(){
         return name;
     }
+
+    // new -------------------
+    int useless = 0;
+
+    int result = useless + 1 - 1;
+    // new -------------------
+
+
 }
