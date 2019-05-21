@@ -12,4 +12,6 @@ public class Name implements Serializable {
     public String getUnamie(){
         return name;
     }
+
+    public void thisIsANewMethode(){}
 }
