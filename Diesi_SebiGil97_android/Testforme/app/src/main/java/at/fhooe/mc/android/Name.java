@@ -19,12 +19,14 @@ public class Name implements Serializable {
 
         int anotherUseless = 6 * 10 + 9;
 
-        int g = 5;
-
+        boolean christoph = false;
+        if(christoph == false) {
+            int gay = 5;
+        }
 
     }
 
-    int Christoph=0;
+    int Christoph = 0;
 
     // new -------------------
     int useless = 0;
