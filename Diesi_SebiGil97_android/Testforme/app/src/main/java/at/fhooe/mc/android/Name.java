@@ -17,9 +17,10 @@ public class Name implements Serializable {
     public void thisIsANewMethode(){
 
         int anotherUseless = 6 * 10 + 9;
-
-        int g = 5;
-
+        boolean christoph = false;
+        if(christoph == false) {
+            int gay = 5;
+        }
     }
 
 
